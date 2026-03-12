@@ -1,6 +1,6 @@
 # Simple Reflex Agent for Vacuum Cleaner World
 
-# Function to simulate the vacuum cleaner agent
+# Function to simulate the vacuum  cleaner agent
 def reflex_vacuum_agent(location, status):
     if status == "Dirty":
         return "Suck"
